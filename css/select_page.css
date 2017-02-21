@@ -1,0 +1,14 @@
+body {     
+	background: url(http://localhost/myShootball/images/surya.jpg) no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+   padding-right: 400px;
+  padding-left: 450px;
+}
+#head{
+    font-family: "verdana";
+    color:crimson;
+    font-size: 200%;
+}

@@ -1,0 +1,64 @@
+
+.jimgMenu {
+	position:relative;
+	margin: 0px 0px 0px -250px;
+	padding: 120px;
+	width:610px;
+	height:250px;
+	overflow: hidden;
+}
+
+.jimgMenu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	height: 250px;
+	position: relative;
+	}
+	
+.jimgMenu ul li {
+	width: 150px;
+	float: left;
+	display: block;
+	overflow: hidden;
+}
+
+.jimgMenu ul li a {
+	text-indent: -1000px;
+	background:#fff repeat scroll 0%;
+	border-right: 2px solid #fff;
+	cursor:pointer;
+	display:block;
+	overflow: hidden;
+	height: 200px;
+}
+
+.jimgMenu ul li#goalkeeper a {
+	background: url(http://localhost/myShootball/images/2.jpg) repeat scroll 50%;
+  
+}
+
+.jimgMenu ul li#forward a {
+	background: url(http://localhost/myShootball/images/4.jpg) repeat scroll 0%;
+
+}
+
+.jimgMenu ul li#defender a {
+	background: url(http://localhost/myShootball/images/3.jpg) repeat scroll 0%;
+  
+}
+.jimgMenu ul li#marquee a {
+	background: url(http://localhost/myShootball/images/1.jpg) repeat scroll 0%;
+  
+}
+
+
+.jimgMenu ul li#midfielder a {
+	background: url(http://localhost/myShootball/images/5.jpg) repeat scroll 0%;
+	border-right-style: none;
+}
+
+.clear {
+	clear: both;
+}
