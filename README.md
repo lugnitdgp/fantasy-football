@@ -1,9 +1,9 @@
 # fantasy-football
 An online portal for betting of players playing in european leagues
 
-Download myphpadmin and import shootball.sql there
+Download phpMyadmin and import shootball.sql there
 
-import the player data from the outfield_data and goalie_data files present in the Squwaka crawler repository of mine
+import the player data from the outfield_data and goalie_data files present in the Updated Squwaka crawler repository.
 
 Copy the contents of the cloned folder to the web root of your WAMP/Apache/Njinx/XXAMP server.
 
